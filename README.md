@@ -1,3 +1,4 @@
+# Hex
 ```
 func main() {
 	rom, err := ioutil.ReadFile("path/to/rom.ch8")
